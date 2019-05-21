@@ -1,0 +1,36 @@
+{
+  "name": "@tschallacka/oc.foundation",
+  "version": "1.0.0",
+  "description": "The October Foundation object which is needed to make october foundation apps",
+  "main": "oc.foundation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_oc.foundation.git"
+  },
+  "keywords": [
+    "october",
+    "octobercms",
+    "oc.foundation",
+    "october",
+    "foundation",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "@tschallacka/oc.foundation.dispose_controls": "*",
+    "@tschallacka/oc.foundation.trigger_render": "*",
+    "@tschallacka/oc.foundation.base": "*",
+    "@tschallacka/oc.foundation.event": "*",
+    "@tschallacka/oc.foundation.element": "*",
+    "@tschallacka/oc.foundation.controlutils": "*"
+  },
+  "author": "OctoberCMS, Tschallacka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_oc.foundation/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_oc.foundation#readme"
+}
